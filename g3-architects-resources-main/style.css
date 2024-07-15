@@ -1,0 +1,131 @@
+
+
+.work-sans-normal{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/* share style */
+.display-flex{
+    display: flex;
+    
+}
+.btn-primary{
+    border-radius: 8px;
+    background: rgb(255, 144, 14);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    
+    
+}
+.button{
+    text-align: center;
+}
+
+/* header style */
+.header{
+    max-width: 1920px;
+    background: rgba(255, 144, 14, 0.1);
+    
+}
+.nav-link{
+    text-decoration: none;
+    
+}
+.navbar{
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-item{
+    margin-left: 20px;
+    font-size:18px ;
+    font-weight:500;
+    color: rgb(66, 66, 66);
+}
+.brand{
+    font-size: 45px;
+    font-weight: 700;
+    color:rgb(19, 19, 19) ;
+}
+.banner-content{
+    width: 862px;
+    
+    margin: 0 auto;
+}
+
+.banner-title{
+    font-weight: 700;
+    font-size: 64px;
+    color: Dark 01;
+
+   
+   
+}
+.banner-description{
+    font-size: 16px; 
+    font-weight: 400; 
+    color: #727272;
+}
+.banner-img{
+    width: 1440px;
+    height: 700px;
+    margin: 0 auto;
+    padding: 50px;
+
+   
+
+}
+/* 
+teames section start */
+
+.teames{
+    display: flex;
+    align-items: center;
+  
+}
+.teames-img-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:24px;
+    margin-top: 80px;
+ 
+}
+.our-features{
+    margin-left: 73px;
+    max-width: 537px;
+ 
+}
+.features-title{
+    font-size: 2.4em;
+  
+}
+.features-description{
+    font-size: 1em;
+    font-weight: 400;
+    color: rgb(114, 114, 114);
+}
+#quick-list{
+    font-weight: 500;
+    color: rgb(114, 114, 114);
+}
+#of-our{
+    font-weight: 700;
+    color: rgb(19, 19, 19);
+}
+#features{
+    font-weight: 700;
+    color:rgb(255, 144, 14);
+}
+
+
+/* features you will love and enjoy */
+
+
+
+
+ 
+  
+   
